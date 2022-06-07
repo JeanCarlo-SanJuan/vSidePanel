@@ -3,7 +3,7 @@
     class="vSidePanel"
     :data-show="isDisplayed"
 >
-Hello, world!
+Hello, Side Panel!
 </aside>
 </template>
 <script setup>

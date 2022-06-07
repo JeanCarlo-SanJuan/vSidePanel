@@ -11,7 +11,6 @@
     <template v-slot:main>
       <MainContent></MainContent>
     </template>
-
 </vPage>
 </template>
 <script setup>
